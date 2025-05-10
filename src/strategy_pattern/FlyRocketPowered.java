@@ -1,4 +1,4 @@
-package design_pattern;
+package strategy_pattern;
 
 public class FlyRocketPowered implements FlyBehaviour{
 
